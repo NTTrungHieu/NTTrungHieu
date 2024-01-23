@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hieu and I'm a javascript developer, from :vietnam: Vietnam.</p>
+<p align="left">My name is Hieu, and I'm a JavaScript developer from Vietnam.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning typescript and next.js :nextjs:<br>🎯 Goals: Contribute to an open-source project, collaborating with a diverse community<br>💬 Ask me about react, angular, nest, express<br>🎲 Fun fact: I can watch anime for 12 hours a day 😂</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning typescript and next.js<br>🎯 Goals: Contribute to an open-source project, collaborating with a diverse community<br>💬 Ask me about react, angular, nest, express</p>
 
 ###
 
